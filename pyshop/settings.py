@@ -26,7 +26,7 @@ SECRET_KEY = 'uw#m#&_btlqy_bnm@qa%_1z#0y()t7%yz6w0--e6!$9zs2+j%)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['nikami.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['nika.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
